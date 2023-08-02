@@ -93,9 +93,9 @@ footer{
 }.flex-item a#week4{
     background-image: url(../assets/images/week4.png); 
 }
-/* .flex-item a#final{
+.flex-item a#final{
     background-image: url(../assets/images/final.png); 
-} */
+}
 
 /* want a different background image for each project? */
 /* try give each a tag a unique id in your HTML and then set different background images here*/
@@ -106,13 +106,13 @@ footer{
 
 
 .flex-item a:hover{
-    color:#bbbbbb;
+    color:white;
     background-size: 120%;
 }
 
 .flex-item h4{
    margin:10px;
-   background-color: white;
+   background-color: black;
    padding:5px 10px;
 }
 
