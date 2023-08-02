@@ -91,10 +91,10 @@ footer{
 }.flex-item a#nike{
     background-image: url(../assets/images/nike.png); 
 }.flex-item a#week4{
-    background-image: url(../assets/images/week4.png); 
+    background-image: url(../assets/images/emotion.png); 
 }
 .flex-item a#final{
-    background-image: url(../assets/images/final.png); 
+    background-image: url(../assets/images/poster.jpeg); 
 }
 
 /* want a different background image for each project? */
