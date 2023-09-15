@@ -96,6 +96,9 @@ footer{
 .flex-item a#final{
     background-image: url(../assets/images/poster.jpeg); 
 }
+.flex-item a#finale{
+    background-image: url(../assets/images/wps_doc_0.jpg); 
+}
 
 /* want a different background image for each project? */
 /* try give each a tag a unique id in your HTML and then set different background images here*/
